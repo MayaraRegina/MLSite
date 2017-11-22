@@ -1,0 +1,93 @@
+Dark World  
+
+
+O site é uma grande comunidade para os fãs de terror/horror, mistério e sobrenatural. 
+Nele você poderá publicar histórias (de sua autoria) referentes ao tema do site. 
+O site terá alguns menus, e cada um deles te levará a uma parte diferente do site:
+
+Menu de histórias
+Menu de tutoriais (rituais)
+Menu de curiosidades sobre o gênero terror/horror (livros, filmes, séries, jogos, etc)
+Menu de fanarts 
+
+Público alvo: Pessoas que gostam do tema.
+
+Requisitos funcionais:
+
+Cadastro: Para fazer parte do site, todos os usuários precisam de um cadastro, que pedirá as seguintes informações:
+e-mail, senha, nome, data de nascimento, sexo e foto.
+
+Login: Após o cadastro no site, as informações do usuário estarão salvas no sistema,
+e para que ele entre novamente no site precisará fazer o login (e-mail e senha).
+
+Menus de navegação: Os usuários terão a opção de visitar cada menu.
+Terá uma barra de pesquisa caso você queira pesquisar alguma história, mas caso queira publicar uma história,
+preencherá as seguintes informações:
+
+Título da história.
+Sinopse.
+Faixa etária.
+Gênero :Terror, horror, suspense, mistério, sobrenatural e romance
+(o romance deve estar ligado a pelo menos um dos gêneros anteriores).
+Caixa de texto: onde ficará o conteúdo da história.
+Uma autorização que consta que aquela história é de sua autoria.
+
+Lembrando que todas as histórias só  podem ser originais, 
+isso quer dizer que não poderá ser baseada em uma obra já existente. 
+
+No menu de rituais os usuários poderão acessar e publicar vários tipos de rituais, sejam eles bons ou ruins.
+Os rituais podem ou não ser de autoria própria. 
+Por exemplo, se você publicar o ritual da loira do banheiro, deverá deixar bem claro que não foi você quem o criou.
+Antes de publicar os rituais, terá a opção: “Está publicação é de minha autoria?” “SIM ( ) NÃO ( )”.
+Se caso não for, deverá colocar os créditos ao autor.
+Mas como muitas histórias pela internet ninguém sabe ao certo as suas origens, 
+um exemplo de diversas Creepypastas por aí, não será necessário o nome do criador,
+apenas deixe claro que não foi você quem inventou. Para publicar um ritual será necessário preencher:
+
+Título do ritual;
+Criador;
+Caixa de texto;
+Autorização da publicação (Caso você não seja o autor, marque o “NÃO” e dê os créditos).
+
+
+Lembrando que nenhum ritual é para ser levado a sério. 
+São apenas curiosidades, muitos deles não passam de histórias de terror.
+Mas caso queira tentar, fique por sua conta e risco.
+O site não tem o objetivo de fazer os usuários venderam a alma para o demônio,
+beber sangue de virgens ou matar pessoas, são apenas curiosidades para quem é fã dessas histórias.
+Saiba o que está fazendo, não seja burro. 
+
+No menu de curiosidades sobre o gênero, os usuários poderão publicar filmes, séries, livros… relacionados ao tema. 
+Poderão fazer uma crítica sobre tal filme, comentar a sua opinião e recomendar para outros usuários. 
+Em cada post que o usuário publicar, terá a barra de comentários, 
+onde todos possam interagir e discutir sobre o filme ou qualquer coisa relacionada a terror. 
+Para publicar algum post relacionado, deverá preencher:
+
+Título;
+Data de lançamento;
+Gênero;
+Criador;
+
+
+No menu de fanarts, os usuários poderão publicar e comentar sobre as fanarts uns dos outros.
+Lembrando que todas têm que estar relacionadas ao tema e ser de sua própria autoria.
+Para publicar alguma fanart, é necessário que seja preenchido:
+
+Criador;
+Referência (caso a sua fanart faça parte de algum filme, série, livro, etc);
+Foto da fanart.
+
+Requisitos não funcionais:
+
+HTTPS: para garantir a segurança de dados.
+
+Qualidade ao acesso rápido: As páginas serão carregadas em uma velocidade agradável.
+Caso demorar, pode ser problema da sua internet.
+
+Segurança da informação: Informações estarão sempre seguras.
+
+Tipo de linguagem: JAVA
+
+Qualidade: Images, vídeos, comunicações, informações.
+
+
