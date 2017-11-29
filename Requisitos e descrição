@@ -54,4 +54,26 @@ O site não tem o objetivo de fazer os usuários venderam a alma para o demônio
 beber sangue de virgens ou matar pessoas, são apenas curiosidades para quem é fã dessas histórias.
 Saiba o que está fazendo, não seja burro. 
 
+No menu de fanarts, os usuários poderão publicar e comentar sobre as fanarts uns dos outros.
+Lembrando que todas têm que estar relacionadas ao tema e ser de sua própria autoria.
+Para publicar alguma fanart, é necessário que seja preenchido:
+
+Criador;
+Referência (caso a sua fanart faça parte de algum filme, série, livro, etc);
+Foto da fanart.
+
+Requisitos não funcionais:
+
+HTTPS: para garantir a segurança de dados.
+
+Qualidade ao acesso rápido: As páginas serão carregadas em uma velocidade agradável.
+Caso demorar, pode ser problema da sua internet.
+
+Segurança da informação: Informações estarão sempre seguras.
+
+Tipo de linguagem: JAVA
+
+Qualidade: Images, vídeos, comunicações, informações.  
+
+
 
